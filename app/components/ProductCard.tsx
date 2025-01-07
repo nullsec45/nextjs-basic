@@ -6,7 +6,7 @@ import styles from './ProductCard.module.css';
 
 const ProductCard = () => {
   return (
-    <div className={styles.cardContainer}>
+    <div>
      <AddToCart/>
     </div>
   )
